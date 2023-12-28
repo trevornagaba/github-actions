@@ -1,1 +1,1 @@
-Github Actions example - trying to run github actions
+Github Actions example
